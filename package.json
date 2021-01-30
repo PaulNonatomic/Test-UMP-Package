@@ -13,5 +13,8 @@
     "name": "Nonatomic",
     "email": "paul@nonatomic.co.uk",
     "url": "https://www.nonatomic.co.uk"
+  },
+  "dependencies": {
+    "com.unity.test-framework": "1.1.22"
   }
 }
