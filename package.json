@@ -1,0 +1,17 @@
+{
+  "name": "uk.co.nonatomic.test-package",
+  "version": "0.0.0",
+  "displayName": "Test Package Example",
+  "description": "This is an example package",
+  "unity": "2020.2",
+  "keywords": [
+    "test",
+    "package",
+    "nonatomic"
+  ],
+  "author": {
+    "name": "Nonatomic",
+    "email": "paul@nonatomic.co.uk",
+    "url": "https://www.nonatomic.co.uk"
+  }
+}
